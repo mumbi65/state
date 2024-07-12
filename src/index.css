@@ -83,3 +83,8 @@ button:focus-visible {
 .form-group{
   margin: 10px;
 }
+
+.error-message{
+  color: rgb(245, 98, 98);
+}
+
